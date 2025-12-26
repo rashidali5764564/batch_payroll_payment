@@ -20,6 +20,8 @@
         "views/batch_payment_server_action.xml",
         "views/account_payment_register_view.xml",
     ],
+    
+    "icon": "/batch_payroll_payment/static/description/cover.png",
 
     "installable": True,
     "application": False,
