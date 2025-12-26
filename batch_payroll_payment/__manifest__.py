@@ -21,6 +21,11 @@
         "views/account_payment_register_view.xml",
     ],
     
+    "images": [
+        "static/description/screenshots/cover.png",
+        "static/description/screenshots/banner.png",
+    ],
+    
     "icon": "/batch_payroll_payment/static/description/cover.png",
 
     "installable": True,
