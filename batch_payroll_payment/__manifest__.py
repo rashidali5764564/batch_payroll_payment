@@ -45,7 +45,7 @@ payroll payments efficiently using Odoo's standard payment register wizard.
         "static/description/screenshots/banner.png",
     ],
     
-    "icon": "/batch_payroll_payment/static/description/cover.png",
+    "icon": "static/description/cover.png",
 
     "installable": True,
     "application": False,
