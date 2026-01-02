@@ -27,7 +27,7 @@ payroll payments efficiently using Odoo's standard payment register wizard.
     "website": "https://www.odoo.com",
 
     "license": "OPL-1",
-    "price": 5.0,
+    "price": 50.0,
     "currency": "USD",
 
     "depends": [
