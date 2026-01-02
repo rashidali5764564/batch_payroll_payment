@@ -8,13 +8,8 @@
         <field name="arch" type="xml">
             <!-- Make amount readonly (calculated from net wage) -->
             <xpath expr="//field[@name='amount']" position="attributes">
-                <attribute name="readonly">1</attribute>
+                <attribute name="readonly">0</attribute>
             </xpath>
-
-            <!-- Hide custom_rate field for payroll payments only -->
-<!--            <xpath expr="//field[@name='custom_rate']" position="attributes">-->
-<!--                <attribute name="invisible">is_payroll_payment</attribute>-->
-<!--            </xpath>-->
 
         </field>
     </record>
